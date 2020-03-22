@@ -1,0 +1,2 @@
+# Tindogy
+-css-boostrap-nonFuntional
